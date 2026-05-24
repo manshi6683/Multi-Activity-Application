@@ -48,32 +48,6 @@ A modern multi activity Android application built using Kotlin & XML in Android 
 
 ---
 
-# 📸 Application Screenshots
-
-<div align="center">
-
-## 🔢 Prime Number Page
-
-<img src="screenshots/prime.png" width="250"/>
-
-<br>
-<br>
-
-## 🧮 Factorial Page
-
-<img src="screenshots/factorial.png" width="250"/>
-
-<br>
-<br>
-
-## 💡 Calculator Page
-
-<img src="screenshots/calculator.png" width="250"/>
-
-</div>
-
----
-
 # 🛠️ Tech Stack
 
 <div align="center">
