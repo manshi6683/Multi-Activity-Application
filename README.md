@@ -131,27 +131,6 @@ Connect emulator/device and click ▶ Run.
 
 ---
 
-# 📌 Future Improvements
-
-- Scientific Calculator
-- Dark/Light Mode
-- Voice Input
-- History Storage
-- Better Animations
-
----
-
-# 👩‍💻 Developer
-
-<div align="center">
-
-## Manshi
-
-Android Developer • Kotlin Learner • UI Enthusiast
-
-</div>
-
----
 
 # ⭐ Support
 
@@ -168,9 +147,3 @@ If you like this project:
 This project is open source and free to use.
 
 ---
-
-<div align="center">
-
-## 💜 Thank You For Visiting 💜
-
-</div>
